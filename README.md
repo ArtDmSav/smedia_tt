@@ -86,8 +86,10 @@ docker-compose down
 ```
 
 # ТЗ от заказчика
+<img width="1337" alt="Снимок экрана 2024-06-06 в 2 39 44 PM" src="https://github.com/ArtDmSav/smedia_tt/assets/123599254/31003a3b-9cda-4315-b875-ae5a4e1ab24d">
 
-![Снимок экрана 2024-06-06 в 2.39.44 PM.png](..%2F..%2FDesktop%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-06-06%20%D0%B2%202.39.44%E2%80%AFPM.png)
+
+
 
 
 
