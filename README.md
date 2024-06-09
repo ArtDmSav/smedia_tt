@@ -41,7 +41,7 @@ smedia_tt/
 
 1. Склонируйте репозиторий:
     ```sh
-    git clone https://github.com/artdmsav/smedia_bot.git
+    git clone https://github.com/artdmsav/smedia_tt.git
     cd smedia_bot
     ```
 
